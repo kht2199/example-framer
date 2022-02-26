@@ -1,0 +1,1 @@
+import o from"react";import{motion as t}from"framer-motion";var e={backgroundColor:"red",display:"inline-block",width:100,height:100},l=()=>o.createElement(t.button,{whileHover:{scale:.9},whileTap:{scale:.7},style:e});export{l as MotionButton};
